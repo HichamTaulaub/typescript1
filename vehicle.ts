@@ -23,7 +23,9 @@ interface Vehicle {
     }
   }
   
+  
   // Step 3: Create an instance of the Car class and call the start method
   const myauto = new Car("Toyota", "Camry", 2020);
   myauto.start(); // Expected Output: "Car engine started"
+  
   
